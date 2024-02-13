@@ -5,7 +5,7 @@ int main()
     // Window dimensions
     int width{800};
     int height{450}; 
-    InitWindow(width, height, "Greg's Window");
+    InitWindow(width, height, "Axe Game");
 
     // Circle coordinates
     int circle_x{200};
